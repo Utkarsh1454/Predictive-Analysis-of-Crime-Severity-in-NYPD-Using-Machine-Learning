@@ -1,4 +1,4 @@
-# 🚔 <PROJECT_TITLE>
+# 🚔 Predictive Analysis of Crime Severity Using Machine Learning
 
 ## 📌 Project Overview
 This project focuses on building an end-to-end **predictive analytics and machine learning pipeline** to solve a real-world problem using structured data.  
